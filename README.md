@@ -1,26 +1,20 @@
-# MatTabExample
+# Angular Material Tabs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Tabs](https://youtu.be/Zk-2CBKiMtU).
+
+[![Angular Material Tree](https://img.youtube.com/vi/Zk-2CBKiMtU/maxresdefault.jpg)](https://youtu.be/Zk-2CBKiMtU)
+
+A minimal example of how to get the Angular Material Tabs working on your own site. Plus an example of how to reset the index of the tabs using a button.
+
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+
+## Installation
+
+Download or clone this project, then run `npm i` from the project directory to install its dependencies. Not familiar with NPM? Check out my [NPM Tutorial](https://www.youtube.com/watch?v=mzs-N5hXGuQ).
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
