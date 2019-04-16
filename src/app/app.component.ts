@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'mat-tab-example';
+  selectedIndex = 0;
+
+  resetTabIndex() {
+    this.selectedIndex = 0;
+    console.log('tab index has been reset');
+  }
 }
