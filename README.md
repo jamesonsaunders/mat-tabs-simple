@@ -1,12 +1,12 @@
 # Angular Material Tabs
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Tabs](https://youtu.be/Zk-2CBKiMtU).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Angular Material Tabs](https://youtu.be/Zk-2CBKiMtU).
 
 [![Angular Material Tree](https://img.youtube.com/vi/Zk-2CBKiMtU/maxresdefault.jpg)](https://youtu.be/Zk-2CBKiMtU)
 
 A minimal example of how to get the Angular Material Tabs working on your own site. Plus an example of how to reset the index of the tabs using a button.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
